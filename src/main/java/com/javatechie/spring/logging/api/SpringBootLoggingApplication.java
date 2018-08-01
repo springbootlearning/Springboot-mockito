@@ -1,4 +1,4 @@
-package com.javatechie.spring.logging.api;
+package com.siva.spring.logging.api;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
